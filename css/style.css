@@ -1,0 +1,150 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: "Crafty Girls";
+    font-weight: 400;
+    font-style: normal;
+    
+    
+
+
+}
+
+.container{
+    width: 1440px;
+    height: 1024px;
+    margin: 0 auto;
+background-color: #dad9d9;
+
+  
+    
+ 
+}
+
+.title {
+    font-family: "Petit Formal Script";
+    font-style: normal;
+    width: 772px;
+    height: 194px;
+    justify-content: center;
+    margin-inline: auto;
+    margin-top: 46px;
+    display: flex;
+    color: #27272A;
+    line-height: normal;
+    font-size: 20px;
+    gap: 30px;
+    font-weight: 400;
+    background-image: url(..//images/abstract);
+    position: absolute;
+    right: 382px;
+    left: 30%;
+   margin-top: 6%;
+
+}
+  
+
+   .topBar{
+    
+    height: 29px;
+    background: linear-gradient(90deg, #4E9A64 0%, #419FC2 46.1%, #C53030 100%);
+}
+
+
+.buttons {
+   
+    gap: 155px;
+    margin-top: 15px;
+    
+    display: flex;
+    border: 1px dashed #000;
+     width: 688px;
+     height: 48px;
+     background: linear-gradient(90deg, rgba(217, 217, 217, 0.56) 0%, rgba(115, 115, 115, 0.56) 100%);
+     border-radius: 14px;
+     margin-inline: auto;
+   justify-content:center;
+   padding-top: 12px;
+   font-size: 12px;
+   margin-bottom: 20px;
+
+
+}
+
+  
+.pictures1{
+border-radius: 18px 18px 0px 0px;
+gap: 23px;
+display: flex;
+padding: 20px;
+background-color: #27272A;
+
+
+
+}
+
+.pictures2{
+gap: 23px;
+display: flex;
+padding: 20px;
+background-color: #27272A;
+
+}
+
+
+.pictures3 { 
+    border-top: 40px;
+    gap: 23px;
+    display: flex;
+    padding: 20px;
+    background-color: #27272A;
+     
+
+}
+
+
+.pictures4 { 
+    border-top: 40px;
+    gap: 23px;
+    display: flex;
+    padding: 20px;
+    background-color: #27272A;
+     
+
+}
+
+footer{
+   
+    background: linear-gradient(90deg, #4E9A64 0%, #419FC2 46.1%, #C53030 100%);
+    width: 1440px;
+    height: 75px;
+   display: flex;
+   margin-top: 100px;
+   position: absolute;
+   
+
+}
+
+ 
+.footertext{ 
+    position: absolute;
+    display: flex;
+    top: 20px;
+    left: 50px;
+    width: 181px;
+    height: 68px;
+    color: #000;
+
+font-family: "Petit Formal Script";
+font-size: 8px;
+font-style: normal;
+
+line-height: normal;
+  
+}
+
+
+
+  
+
+  
